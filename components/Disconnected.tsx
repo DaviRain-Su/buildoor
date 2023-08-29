@@ -39,7 +39,7 @@ const Disconnected: FC = () => {
           noOfLines={2}
           textAlign="center"
         >
-          打造你的 buildoor。赚取 $BLD。升级。
+          打造你的 buildoor 赚取 $BLD 升级
         </Heading>
         <Button
           bgColor="accent"
